@@ -76,7 +76,7 @@ public:
 	double removeFirst();
 
 private:
-	//*** Inaccessible standard functions ***
+	//*** Inaccessible standard functions ****
 
 
 	//*** Helper functions ***
