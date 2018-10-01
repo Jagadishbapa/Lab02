@@ -5,7 +5,7 @@
 // tom bailey   1030  27 jan 2012
 // Exercise the List class with verbose Node constructor
 //   and destructor.
-#include "pch.h"
+//#include "pch.h"
 #include "LinkedList.h"
 
 
